@@ -87,3 +87,8 @@ public class Arrays {
         System.out.println();
     }
 }
+
+/*
+ https://www.geeksforgeeks.org/different-ways-to-achieve-pass-by-reference-in-java/?ref=rp
+ https://www.geeksforgeeks.org/g-fact-31-java-is-strictly-pass-by-value/
+ */
